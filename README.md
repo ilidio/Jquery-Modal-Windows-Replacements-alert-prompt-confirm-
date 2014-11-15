@@ -24,5 +24,5 @@ Example:
 
 
 
-
+Notes: You will need jQuery lib @ http://jquery.com
 
